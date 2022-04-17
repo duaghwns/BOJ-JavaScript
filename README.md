@@ -1,0 +1,1 @@
+<h1>BOJ JavaScript</h1>
